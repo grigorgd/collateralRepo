@@ -1,8 +1,8 @@
 package com.company;
 
 public enum Suit {
-    SPADE,
-    CLUBS,
+    DIAMOND,
     HEARTS,
-    DIAMONDS;
+    SPADES,
+    CLUBS;
 }
